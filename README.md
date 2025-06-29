@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karandinglani" alt="karandinglani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kdinglani43519" target="blank"><img src="https://img.shields.io/twitter/follow/kdinglani43519?logo=twitter&style=for-the-badge" alt="kdinglani43519" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelegence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karandinglani](https://github.com/karandinglani)
